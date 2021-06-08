@@ -1,5 +1,5 @@
 
-<img  src="https://raw.githubusercontent.com/junicola/junicola/master/github_profile2.gif" />
+<a href="https://junicola.com"><img  src="https://raw.githubusercontent.com/junicola/junicola/master/github_profile2.gif" /> </a>
 
 
 <h3 align="center"> ⭐ Visit my <a  href="https://junicola.com" target="_blank" ><img  align="center" src="https://img.shields.io/badge/Portfolio-a286cf?style=for-the-badge&logoColor=white"></a> to know more about me ⭐<h3>
