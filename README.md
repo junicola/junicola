@@ -17,5 +17,4 @@ My technology stack
 
 ```
 
- :raising_hand_woman: [`Linkedin`](https://linkedin.com/in/junicola) [`Portfolio`](https://junicola.com)
-
+ :raising_hand_woman: [`Linkedin`](https://linkedin.com/in/junicola)
