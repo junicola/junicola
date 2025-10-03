@@ -19,5 +19,5 @@ My technology stack
 # Git
 
 ```
-:computer: [`Portfolio`](https://linkedin.com/in/junicola)
+:computer: [`Portfolio`](https://junicola.github.io)
 :raising_hand_woman: [`Linkedin`](https://linkedin.com/in/junicola)
