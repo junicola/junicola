@@ -11,10 +11,13 @@ My technology stack
 # CSS
 # Sass
 # React.js
+# Angular
+# Vue
+# TypeScript
 # React-native
 # JQuery
 # Git
 
 ```
-
- :raising_hand_woman: [`Linkedin`](https://linkedin.com/in/junicola)
+:computer: [`Portfolio`](https://linkedin.com/in/junicola)
+:raising_hand_woman: [`Linkedin`](https://linkedin.com/in/junicola)
